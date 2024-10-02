@@ -1,7 +1,7 @@
 -- e-commerce database
 CREATE DATABASE ecommerce;
 
---created database
+-- created database
 USE ecommerce;
 
 -- customers table
